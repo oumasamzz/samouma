@@ -1,0 +1,8 @@
+.sidebar{
+background-color: rgba(206, 212, 212, 0.653);
+display: table-row;
+font-size: larger;
+    font-weight: bold;
+   height: 300px; 
+   width: 400px;
+}
